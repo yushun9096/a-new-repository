@@ -1,0 +1,9 @@
+vision
+technical skill
+communication
+experience
+marketing
+financial
+$ git add .
+$ git commit -m " "
+$ git push -u origin master
